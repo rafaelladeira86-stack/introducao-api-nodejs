@@ -1,0 +1,20 @@
+{
+  "name": "introducao-api-nodejs",
+  "version": "1.0.0",
+  "description": "introdução API com Node JS - Express Mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelladeira86-stack/introducao-api-nodejs.git"
+  },
+  "keywords": ["Node JS", "Express", "Mysql", "API"],
+  "author": "Rafael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelladeira86-stack/introducao-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/rafaelladeira86-stack/introducao-api-nodejs#readme"
+}
